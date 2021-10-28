@@ -25,6 +25,9 @@ export default function App(){
 					<Col><Card/></Col>
 					<Col><Card/></Col>
 					<Col><Card/></Col>
+					<Col><Card/></Col>
+					<Col><Card/></Col>
+					<Col><Card/></Col>
 				</Row>
 			</Container>
 			<AboutMe/>
