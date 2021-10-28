@@ -14,7 +14,7 @@ export default function Footer(){
 	return(
 		<footer style={footerStyle}>
             <div className="container">
-                <span className="text-muted">This is the footer</span>
+                <span className="text-muted">This is the updated footer</span>
             </div>
         </footer>
 	)
